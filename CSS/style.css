@@ -1,0 +1,45 @@
+body {background-color: white;}
+body header section {
+    background-color: #222222;
+    color: #f3f3f3;
+}
+body header div {
+    background-color: #F0A83E;
+    color: #FFFFFF;
+}
+.margenRight { text-align: right;}
+
+#marg {text-align: right;}
+
+body main section {
+    background-image: url('../IMG/bowl-and-pet.png');
+    background-size: cover;
+    list-style: none;
+    text-align: right;
+    height: 500px;
+}
+body main div {
+    text-align: center;    
+}
+
+body main div span {
+    margin: 8px;
+}
+
+#brown {
+    text-align: center;
+    background-color: #3C2313;
+}
+#orange {
+    background-color:#F0A83E;
+}
+#suscripcion {
+    background-color: #3C2313;
+    text-align: right;
+}
+footer section {
+    background-color: #3C2313;    
+}
+footer div {
+    background-color: #222222;
+}
